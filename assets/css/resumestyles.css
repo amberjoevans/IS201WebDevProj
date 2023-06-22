@@ -1,7 +1,7 @@
 body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
-    color: black;
+    color: rgb(231, 226, 235);
     /* background-color: rgb(200, 200, 200); */
 }
 
@@ -25,7 +25,7 @@ h2 {
 
 li {
     font-size: 15px;
-    color: rgb(12, 12, 12);
+    color: rgb(231, 226, 235);
     /* font-style: italic; */
     font-weight: normal;
 } 
